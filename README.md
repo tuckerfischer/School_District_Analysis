@@ -5,7 +5,7 @@ In this project we analyzed school funding as well as student scores in order to
 # Results
 When we initially analysed the data sets we concluded that:
 
-size_summary_df.PNG
+![image](https://user-images.githubusercontent.com/78890771/113533660-0bc39e80-9594-11eb-8550-64cdc4c59b31.png)
 
 * Large schools had a lower passing percentage for both Math, and Reading scores
 * Medium size schools had the highest passing percentage for Reading and the same passing percentage as Small schools in Math
