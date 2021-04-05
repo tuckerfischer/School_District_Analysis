@@ -19,7 +19,7 @@ When we initially analysed the data sets we concluded that:
 * Schools that spent less than $584 had a higher passing percentage across the board compared to other high budget per student
 * Schools that spent the most money on their students has the lowest overall passing percentage
 
-Through the process is was determined that the 9th grade scores from Thomas High School were influenced by cheating and therefore had to be dropped from the Data set. 
+## Through the process it was determined that the 9th grade scores from Thomas High School were influenced by cheating and therefore had to be dropped from the Data set. 
 
 ![image](https://user-images.githubusercontent.com/78890771/113533906-c2c01a00-9594-11eb-841b-608d6050c4a3.png)
 
